@@ -1,1 +1,1 @@
-Application "La Tour Infinie" pour Windows
+Application "La Tour Infinie" pour Windows.
